@@ -7,7 +7,7 @@ Part -1 :- Data Preprocessing <br>
 Part -2 :- Make ANN Model <br>
 Part -3 :- Making the prediction and evaluating the model <br>
 
-**Library used ** <br>
+**Library used** <br>
 * Keras
 * numpy
 * pandas
